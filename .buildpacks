@@ -1,1 +1,2 @@
-https://github.com/ddollar/heroku-buildpack-multi.git#c41ef671cc9c8ff7d5cc7ad412654fbf9cffbce5
+https://github.com/heroku/heroku-buildpack-nodejs
+https://github.com/jerrysu/heroku-buildpack-webpack
